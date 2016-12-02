@@ -26,5 +26,6 @@ The project is composed of two parts:
 - [ ] The pocket for the spool holder could be smaller for less material
 - [ ] Add SleepyDog sleep code to use less battery. Right now it's closing my serial port for debugging so I'll add it later
 - [ ] Estimate (grossly) the time it takes the spool to do one turn to use as 1/4 of wait_time (used for delay) at my printer speeds
+
 ### Wishlist
 - [ ] To average the rotation speed, and then indicate visually if it's rotating faster or slower than the average. Eye candy.
